@@ -7,7 +7,7 @@
 - **Edit Tasks:** Modify tasks directly through a simple prompt.  
 - **Delete Tasks:** Remove unwanted tasks with a click to keep your list organized.  
 - **Important Tasks:** Highlight important tasks with a colored border for easy identification.  
-- **Import Tasks:** Load tasks from a JSON file for easy migration and backup.  
+- **Import Tasks:** Load tasks from a JSON or txt file for easy migration and backup.  
 - **Export Tasks:** Save and share your tasks by exporting them to a JSON or txt file .  
 - **Responsive Design:** Fully functional on both desktop and mobile devices.  
 
